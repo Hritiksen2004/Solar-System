@@ -18,7 +18,7 @@ This is a simple solar system simulation made using **HTML** and **CSS**.
 - `style.css` — all styles and animations
 
 📸 Screenshot
-![Output](screenshot.png)
+![Output](Screenshot.png)
 
 🙋‍♂️ Author
 Hritik Sen
